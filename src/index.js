@@ -7,6 +7,7 @@ import Test5 from './Test5';
 import Test6 from './Test6';
 import Test7 from './Test7';
 import Test8 from './Test8';
+import Test9 from './Test9';
 
 import reportWebVitals from './reportWebVitals';
 
@@ -26,6 +27,7 @@ root.render(
     <hr/>
     <Test7 irum="이보경" age="25" addr="경기도"/>
     <Test8/>
+    <Test9/>
   </React.StrictMode>
 );
 
